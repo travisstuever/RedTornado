@@ -85,6 +85,7 @@
 				D0E898961F0DD8C800E79080 /* Products */,
 			);
 			sourceTree = "<group>";
+			tabWidth = 3;
 		};
 		D0E898961F0DD8C800E79080 /* Products */ = {
 			isa = PBXGroup;
@@ -511,6 +512,7 @@
 				D0E898C21F0DD8C800E79080 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0E898C31F0DD8C800E79080 /* Build configuration list for PBXNativeTarget "BoosterGoldTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +521,7 @@
 				D0E898C51F0DD8C800E79080 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0E898C61F0DD8C800E79080 /* Build configuration list for PBXNativeTarget "BoosterGoldUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +530,7 @@
 				D0E898C81F0DD8C800E79080 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
