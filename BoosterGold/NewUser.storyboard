@@ -74,6 +74,14 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ku6-mp-Moj">
+                                <rect key="frame" x="226" y="444" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="w3v-jN-gFh" kind="show" id="Gk2-zd-MRM"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
@@ -81,6 +89,14 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="UVP-Mu-DOM" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="174" y="173"/>
+        </scene>
+        <!--MainScreen-->
+        <scene sceneID="JzG-4T-7pG">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Main" referencedIdentifier="MainScreen" id="w3v-jN-gFh" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="e0D-vl-7Za" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="715" y="185"/>
         </scene>
     </scenes>
 </document>
