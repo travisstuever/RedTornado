@@ -70,7 +70,7 @@
         <!--NewUser-->
         <scene sceneID="aGj-m5-VhS">
             <objects>
-                <viewControllerPlaceholder storyboardName="NewUserScreeb" referencedIdentifier="NewUser" id="Ut5-hg-NAy" sceneMemberID="viewController"/>
+                <viewControllerPlaceholder storyboardName="NewUser" referencedIdentifier="NewUser" id="Ut5-hg-NAy" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="VUX-fB-GaW" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1516" y="-136"/>
@@ -78,7 +78,7 @@
         <!--NewBusiness-->
         <scene sceneID="7yR-eg-h9w">
             <objects>
-                <viewControllerPlaceholder storyboardName="NewBusinessScreen" referencedIdentifier="NewBusiness" id="X9x-rJ-l4h" sceneMemberID="viewController"/>
+                <viewControllerPlaceholder storyboardName="NewBusiness" referencedIdentifier="NewBusiness" id="X9x-rJ-l4h" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xra-E2-rD4" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1511" y="291"/>
