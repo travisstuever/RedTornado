@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D05956BF1F0F4942002025D0 /* NewBusiness.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D05956BE1F0F4942002025D0 /* NewBusiness.storyboard */; };
+		D05956C11F0F495B002025D0 /* NewUser.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D05956C01F0F495B002025D0 /* NewUser.storyboard */; };
 		D08796FD1F0DF2EE003581EF /* red_tornado.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D08796FC1F0DF2EE003581EF /* red_tornado.jpg */; };
 		D0E898991F0DD8C800E79080 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E898981F0DD8C800E79080 /* AppDelegate.swift */; };
 		D0E8989B1F0DD8C800E79080 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E8989A1F0DD8C800E79080 /* ViewController.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D05956BE1F0F4942002025D0 /* NewBusiness.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = NewBusiness.storyboard; sourceTree = "<group>"; };
+		D05956C01F0F495B002025D0 /* NewUser.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = NewUser.storyboard; sourceTree = "<group>"; };
 		D08796FC1F0DF2EE003581EF /* red_tornado.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = red_tornado.jpg; path = ../../../Pictures/red_tornado.jpg; sourceTree = "<group>"; };
 		D0E898951F0DD8C800E79080 /* BoosterGold.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BoosterGold.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0E898981F0DD8C800E79080 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -106,9 +110,11 @@
 			children = (
 				D0E898981F0DD8C800E79080 /* AppDelegate.swift */,
 				D0E8989A1F0DD8C800E79080 /* ViewController.swift */,
-				D0E8989C1F0DD8C800E79080 /* Main.storyboard */,
-				D0E898A21F0DD8C800E79080 /* Assets.xcassets */,
 				D0E898A41F0DD8C800E79080 /* LaunchScreen.storyboard */,
+				D0E8989C1F0DD8C800E79080 /* Main.storyboard */,
+				D05956BE1F0F4942002025D0 /* NewBusiness.storyboard */,
+				D05956C01F0F495B002025D0 /* NewUser.storyboard */,
+				D0E898A21F0DD8C800E79080 /* Assets.xcassets */,
 				D0E898A71F0DD8C800E79080 /* Info.plist */,
 				D0E8989F1F0DD8C800E79080 /* BoosterGold.xcdatamodeld */,
 			);
@@ -242,8 +248,10 @@
 			files = (
 				D0E898A61F0DD8C800E79080 /* LaunchScreen.storyboard in Resources */,
 				D0E898A31F0DD8C800E79080 /* Assets.xcassets in Resources */,
+				D05956C11F0F495B002025D0 /* NewUser.storyboard in Resources */,
 				D0E8989E1F0DD8C800E79080 /* Main.storyboard in Resources */,
 				D08796FD1F0DF2EE003581EF /* red_tornado.jpg in Resources */,
+				D05956BF1F0F4942002025D0 /* NewBusiness.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
